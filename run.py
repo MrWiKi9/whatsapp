@@ -1,6 +1,6 @@
 #!/bin/bash 
 
- cat Launch.txt
+ 
 
 sleep 4
 
